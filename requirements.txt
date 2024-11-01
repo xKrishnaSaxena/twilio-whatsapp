@@ -1,0 +1,11 @@
+flask
+twilio
+pymilvus
+weasyprint
+python-dotenv
+requests
+datetime
+io
+uuid
+embedding
+openai
